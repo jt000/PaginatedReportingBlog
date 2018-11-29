@@ -1,7 +1,7 @@
 title: "A thing or two about Paginated Reports (RDL)"
 description: "Some things you might not know about Paginated Reports in SSRS\PBIRS and PowerBI.com"
 
-url: "https://jt000.github.io/PaginatedReportingBlog/"
+url: "https://jt000.github.io/"
 baseurl: "/PaginatedReportingBlog"
 
 theme: jekyll-theme-minimal
