@@ -1,0 +1,6 @@
+
+# gemfile's lock file
+gemfile.lock
+
+# _site folder (build output)
+_site
