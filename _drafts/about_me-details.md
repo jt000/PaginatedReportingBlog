@@ -1,0 +1,13 @@
+---
+title: Who is Jason Tremper?
+---
+
+Hi! That's a lot for visiting my blog. Many of you may be wondering "who is this Jason guy and what does he know about paginated reporting?" That is an excellent question and kudos to you for asking it.
+
+I began my career at Microsoft as a part of the SoftArtisans talent acquisition back in November of 2005. The main goal of the acquisition was to bring knowledge of the old binary XLS and DOC file formats to the Reporting Services team, which was at the time a part of SQL Server. From this acquisition, SSRS created the newer versions of the Excel Renderer and the Word Renderer. 
+
+What did I have to do with this? Absolutely nothing. I was hired to be a SDET, which I used to get my foot in the door at Microsoft. I had a strong passion for developing, but at the time during the acquisition I was working at SoftArtisans doing technical support and building demos for the product. I had limited knowledge of XLS or DOC file formats and wasn't a valuable part of the acquisition. However, within a couple of months I established myself as a strong developer by writing a PDF parsing library from scratch which was used to replace the PDFTron library we were using at the time. I also worked to build test frameworks and testing automation products to assist in testing the Report Viewer Control and Semantic Query engines. I was able to successfuly switch over to a developer role after roughly a year of joining the Reporting Services team.
+
+I worked on the Client Tools team for a while working on features like the Rich Text added in 2008 R2 and the BI Developmer Studio downgrader which allowed deploying the same report to earlier versions of Reporting Services. I also worked on the "Crescent" project which eventually evolved into what is (Power BI)[https://www.powerbi.com] today. After working on Crescent, I decided I wanted to try out something new and moved over the the Windows Server team working on the "new" version of Server Manager released in Windows Server 2012. A lot of the UI you see in Server Manager was created by me including the general layout surface as well as the Tile frames.
+
+After working a couple of years on Server Manager I returned to the Reporting Services team to manage the release of SSDT-BI where we moved BI Development Studio "out of the box". I then returned back to "Crescent", but only for a few months before deciding that I needed a change and left Microsoft to try out a couple of ventures on my own. I started my own company [Mechavian SC LLC](https://www.mechavian.com) and tried to build a product all on my own. As with many startups, this venture didn't succeed in my initial dreams of creating a brokering system for flying clubs (one day I may tell this story here).

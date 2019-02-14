@@ -1,10 +1,12 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "About"
+    url: /docs/about/
     description: "The quick start guide for this blog site."
 
 docs:
-  - title: Getting Started
+  - title: About
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "About the Author"
+        url: /docs/about/
+      - title: "Disclaimer"
+        url: /docs/disclaimer/
